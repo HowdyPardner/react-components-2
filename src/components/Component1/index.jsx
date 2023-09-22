@@ -1,6 +1,6 @@
-// News Ticker
-
 /* 
+// Component-1 - News Ticker
+
 State:
     - create a new state as an array of new string
     - create a new currentNewsIndex state initialized to 0
